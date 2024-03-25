@@ -1,0 +1,12 @@
+.bg-self {
+    background: #f9ece6;
+}
+.btn-self {
+    background-color: #db4f66;
+    color: #f9ece6;
+}
+.btn-self:hover {
+    background-color: #f9ece6;
+    border: 1px solid #db4f66;
+    color: #db4f66;
+}
